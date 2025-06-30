@@ -4,5 +4,6 @@ resources:
 - ./flux-system/gotk-components.yaml
 - ./flux-system/gotk-sync.yaml
 - onboard-projects.yaml
+- infra.yaml
 patchesStrategicMerge:
 - expose-webhook-receiver.yaml
